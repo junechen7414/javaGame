@@ -1,4 +1,4 @@
 # javaGame
 Warrior vs Mage
 
-package is somehow broke 
+package in these files are somehow broke 
